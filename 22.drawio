@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T09:18:25.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Js7CtqlO2nf1kW41EhPi" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T09:20:55.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fEArIirIoSAYFMgGx52t" version="16.6.4" type="github">
   <diagram id="EuzZxZnqJYDvGSDvsqgL" name="Page-1">
-    <mxGraphModel dx="787" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-qspavT7v30yvVSXL8hS-9" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="70" width="1380" height="880" as="geometry" />
+          <mxGeometry x="10" y="65" width="1380" height="770" as="geometry" />
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;" vertex="1" parent="-qspavT7v30yvVSXL8hS-9">
-          <mxGeometry width="1380" height="90" as="geometry" />
+          <mxGeometry width="1380" height="79" as="geometry" />
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-11" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;view&lt;br&gt;表现层&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;" vertex="1" parent="-qspavT7v30yvVSXL8hS-10">
-          <mxGeometry width="540" height="90" as="geometry">
-            <mxRectangle width="540" height="90" as="alternateBounds" />
+          <mxGeometry width="540" height="79" as="geometry">
+            <mxRectangle width="540" height="79" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-12" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Execution&lt;br&gt;执行层&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;" vertex="1" parent="-qspavT7v30yvVSXL8hS-10">
-          <mxGeometry x="540" width="383" height="90" as="geometry">
-            <mxRectangle width="383" height="90" as="alternateBounds" />
+          <mxGeometry x="540" width="383" height="79" as="geometry">
+            <mxRectangle width="383" height="79" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-13" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;ProcessingReport&lt;br&gt;报告处理层&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;" vertex="1" parent="-qspavT7v30yvVSXL8hS-10">
-          <mxGeometry x="923" width="457" height="90" as="geometry">
-            <mxRectangle width="457" height="90" as="alternateBounds" />
+          <mxGeometry x="923" width="457" height="79" as="geometry">
+            <mxRectangle width="457" height="79" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;" vertex="1" parent="-qspavT7v30yvVSXL8hS-9">
-          <mxGeometry y="90" width="1380" height="790" as="geometry" />
+          <mxGeometry y="79" width="1380" height="691" as="geometry" />
         </mxCell>
-        <mxCell id="-qspavT7v30yvVSXL8hS-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;" vertex="1" parent="-qspavT7v30yvVSXL8hS-14">
-          <mxGeometry width="540" height="790" as="geometry">
-            <mxRectangle width="540" height="790" as="alternateBounds" />
+        <mxCell id="-qspavT7v30yvVSXL8hS-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;dashed=1;" vertex="1" parent="-qspavT7v30yvVSXL8hS-14">
+          <mxGeometry width="540" height="691" as="geometry">
+            <mxRectangle width="540" height="691" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-qspavT7v30yvVSXL8hS-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;" vertex="1" parent="-qspavT7v30yvVSXL8hS-14">
-          <mxGeometry x="540" width="383" height="790" as="geometry">
-            <mxRectangle width="383" height="790" as="alternateBounds" />
+        <mxCell id="-qspavT7v30yvVSXL8hS-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;dashed=1;" vertex="1" parent="-qspavT7v30yvVSXL8hS-14">
+          <mxGeometry x="540" width="383" height="691" as="geometry">
+            <mxRectangle width="383" height="691" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;" vertex="1" parent="-qspavT7v30yvVSXL8hS-14">
-          <mxGeometry x="923" width="457" height="790" as="geometry">
-            <mxRectangle width="457" height="790" as="alternateBounds" />
+          <mxGeometry x="923" width="457" height="691" as="geometry">
+            <mxRectangle width="457" height="691" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-20" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;打开泰坦、影视、酷喵桌面后输入shell命令&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
@@ -61,14 +61,11 @@
         <mxCell id="-qspavT7v30yvVSXL8hS-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="294" y="560" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-qspavT7v30yvVSXL8hS-27" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-qspavT7v30yvVSXL8hS-29" target="-qspavT7v30yvVSXL8hS-20">
+        <mxCell id="-qspavT7v30yvVSXL8hS-27" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-qspavT7v30yvVSXL8hS-85" target="-qspavT7v30yvVSXL8hS-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="107.5" y="210" as="sourcePoint" />
             <mxPoint x="730" y="420" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-qspavT7v30yvVSXL8hS-29" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="92.5" y="180" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-30" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-qspavT7v30yvVSXL8hS-20" target="-qspavT7v30yvVSXL8hS-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -173,15 +170,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-56" value="将执行过程中的关键信息记录在Temporary Report" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="150" height="60" as="geometry" />
+          <mxGeometry x="580" y="277.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-57" value="悬浮窗显示关键信息所选case全部执行完成后关闭" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="420" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-58" value="每执行完一个case" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="420" width="110" height="60" as="geometry" />
+          <mxGeometry x="610" y="420" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-qspavT7v30yvVSXL8hS-59" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=none;strokeColor=#000000;curved=0;entryX=0.58;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-qspavT7v30yvVSXL8hS-57">
+        <mxCell id="-qspavT7v30yvVSXL8hS-59" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=none;strokeColor=#000000;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-qspavT7v30yvVSXL8hS-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="530" as="sourcePoint" />
             <mxPoint x="827" y="445" as="targetPoint" />
@@ -288,6 +285,9 @@
         </mxCell>
         <mxCell id="-qspavT7v30yvVSXL8hS-84" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;rounded=0;sketch=0;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="1130" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-qspavT7v30yvVSXL8hS-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;fontColor=none;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="170" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
